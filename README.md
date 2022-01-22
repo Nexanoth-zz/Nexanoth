@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python with plans to learn GoLang by re-writing and implementing Python projects.
 
 - Links of learning/experience:
-  - TryHackMe: Nexanoth
+  - TryHackMe, HackTheBox, CryptoHack = Nexanoth
 
 - 📫 How to reach me:
   - DISCORD _ Nexanoth#4701
