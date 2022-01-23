@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming (Python and Golang) as well as Linux to develop foundational knowledge.
 
 - Links of learning/experience sites that include my profile 🔎
-  - TryHackMe, HackTheBox, CryptoHack, exercism.org = Nexanoth
+  - TryHackMe, HackTheBox, CryptoHack = Nexanoth
   - I try to do something every day to keep these active
 
 - 📫 How to reach me:
